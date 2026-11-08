@@ -92,3 +92,4 @@ G,https://github.com/lukesmithxyz/st.git,"is my custom build of suckless's termi
 ,clipit,"GTK clipboard manager"
 ,picom,"A compositor"
 ,fish,"A shell"
+,pacman-contrib,"pacman utilities"
